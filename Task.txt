@@ -1,0 +1,6 @@
+Validation of data
+
+Create a Valid class in which make the static methods validEmail ($ email) and validURL ($ url).
+The implementation of these methods should be as follows: data is empty - throwing an exception, data is incorrect - throwing an exception, data is correct - return true.
+Check for various input parameters created methods.
+Note: To correctly verify Email and URL, use filter_var ().
